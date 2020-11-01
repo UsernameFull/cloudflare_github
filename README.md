@@ -1,5 +1,5 @@
 # cloudflare_github
-一个基于cloudflare worker的github release加速功能页面![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+一个基于cloudflare worker的github release加速功能页面[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
 ## 使用说明
 
